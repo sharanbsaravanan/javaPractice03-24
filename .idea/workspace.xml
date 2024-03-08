@@ -5,29 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="540a6e4f-f806-43bf-ba52-09fdb528c741" name="Changes" comment="practice questions all are done">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeSession/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeSession/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeSession/ConvertTemperature.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeSession/CreateMonth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeSession/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeSession/Fibonacci1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeSession/FindEvenOrOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeSession/FindFactorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeSession/FindMaxMin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeSession/FindSumOnArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeSession/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeSession/Students.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeSession/SumCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeSession/SumofArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_06-03-2024_13_10__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_06-03-2024_13_10__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_06-03-2024_13_49__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_06-03-2024_13_49__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_06-03-2024_14_03__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_06-03-2024_14_03__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeDay3/AnimalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeDay3/CalculateSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeDay3/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeDay3/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeDay3/FindFactorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeDay3/FindLargestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeDay3/FindLeapYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeDay3/FindSecondLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeDay3/PrimeNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeDay3/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeDay3/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeDay3/SortedArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,11 +35,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -81,13 +71,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main (1)">
-    <configuration name="Circle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeSession.Circle" />
+  <component name="RunManager" selected="Application.AnimalTest">
+    <configuration name="AnimalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeDay3.AnimalTest" />
       <module name="JavaPrac" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PracticeSession.*" />
+          <option name="PATTERN" value="PracticeDay3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConvertTemperature" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeSession.ConvertTemperature" />
+    <configuration name="CalculateSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeDay3.CalculateSum" />
       <module name="JavaPrac" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PracticeSession.*" />
+          <option name="PATTERN" value="PracticeDay3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeSession.Main" />
+    <configuration name="Employee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeDay3.Employee" />
       <module name="JavaPrac" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PracticeSession.*" />
+          <option name="PATTERN" value="PracticeDay3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeSession.Main" />
+    <configuration name="FindFactorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeDay3.FindFactorial" />
       <module name="JavaPrac" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PracticeSession.*" />
+          <option name="PATTERN" value="PracticeDay3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Students" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeSession.Students" />
+    <configuration name="Rectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeDay3.Rectangle" />
       <module name="JavaPrac" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PracticeSession.*" />
+          <option name="PATTERN" value="PracticeDay3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Circle" />
-        <item itemvalue="Application.Students" />
-        <item itemvalue="Application.ConvertTemperature" />
+        <item itemvalue="Application.AnimalTest" />
+        <item itemvalue="Application.Rectangle" />
+        <item itemvalue="Application.Employee" />
+        <item itemvalue="Application.CalculateSum" />
+        <item itemvalue="Application.FindFactorial" />
       </list>
     </recent_temporary>
   </component>
@@ -166,6 +156,21 @@
       <option name="presentableId" value="Default" />
       <updated>1708264679302</updated>
     </task>
+    <task id="LOCAL-00001" summary="practice questions all are done">
+      <created>1709714610516</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709714610516</updated>
+    </task>
+    <task id="LOCAL-00002" summary="practice questions all are done">
+      <created>1709714621864</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709714621864</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
