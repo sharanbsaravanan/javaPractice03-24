@@ -3,7 +3,7 @@ package PracticeSession;
 /*Define a class named Circle with appropriate
 attributes and methods. Calculate the area
 and circumference of the circle.*/
-public class Circle {
+public class    Circle {
     private double radius;
 
     public Circle (double radius) {
