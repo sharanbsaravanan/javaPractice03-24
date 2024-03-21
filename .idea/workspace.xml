@@ -4,21 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="540a6e4f-f806-43bf-ba52-09fdb528c741" name="Changes" comment="day 3 practice questions are done">
-      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeDay4/Circle1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeDay4/CopyElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeDay4/CountNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeDay4/FindLargest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeDay4/FindMaxi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeDay4/FindSumOfAll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeDay4/FindVowelOrConsonent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeDay4/Multiplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeDay4/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeDay4/ReverseGivenString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeDay4/Shape1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeDay4/Student1.java" afterDir="false" />
+    <list default="true" id="540a6e4f-f806-43bf-ba52-09fdb528c741" name="Changes" comment="day 4 practice questions are done">
+      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeDay5/ArrayReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeDay5/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeDay5/CheckGivenNo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeDay5/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeDay5/EvenIndices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeDay5/FactorialCalc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeDay5/FindFactorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeDay5/FindGcd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeDay5/FindSecondSmall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeDay5/RemoveDuplicateFrmArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeDay5/ReverseOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeDay5/Vehicle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PracticeSession/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PracticeSession/Circle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,13 +72,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main2">
-    <configuration name="Circle1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeDay4.Circle1" />
+  <component name="RunManager" selected="Application.Vehicle">
+    <configuration name="Book" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeDay5.Book" />
       <module name="JavaPrac" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PracticeDay4.*" />
+          <option name="PATTERN" value="PracticeDay5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindMaxi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeDay4.FindMaxi" />
+    <configuration name="Circle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeDay5.Circle" />
       <module name="JavaPrac" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PracticeDay4.*" />
+          <option name="PATTERN" value="PracticeDay5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeDay4.Main2" />
+    <configuration name="FactorialCalc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeDay5.FactorialCalc" />
       <module name="JavaPrac" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PracticeDay4.*" />
+          <option name="PATTERN" value="PracticeDay5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeDay4.Palindrome" />
+    <configuration name="Vehicle (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeDay5.Vehicle" />
       <module name="JavaPrac" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PracticeDay4.*" />
+          <option name="PATTERN" value="PracticeDay5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Student1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeDay4.Student1" />
+    <configuration name="Vehicle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeDay5.Vehicle" />
       <module name="JavaPrac" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PracticeDay4.*" />
+          <option name="PATTERN" value="PracticeDay5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main2" />
-        <item itemvalue="Application.Student1" />
-        <item itemvalue="Application.Circle1" />
-        <item itemvalue="Application.Palindrome" />
-        <item itemvalue="Application.FindMaxi" />
+        <item itemvalue="Application.Vehicle" />
+        <item itemvalue="Application.Vehicle (1)" />
+        <item itemvalue="Application.Circle" />
+        <item itemvalue="Application.Book" />
+        <item itemvalue="Application.FactorialCalc" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709895708303</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="day 4 practice questions are done">
+      <created>1710345162285</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710345162285</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -196,6 +202,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="practice questions all are done" />
     <MESSAGE value="day 3 practice questions are done" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 3 practice questions are done" />
+    <MESSAGE value="day 4 practice questions are done" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 4 practice questions are done" />
   </component>
 </project>
